@@ -1,0 +1,7 @@
+<div class="set-collection">
+  <h2 class="set-header"><%= collection_name %></h2>
+  <% sets.each do |set| %>
+    <% title = "#{set.title} (#{set.count} words)" %>
+    <%= link_to title, "/study/#{set.id}" %>
+  <% end %>
+</div>

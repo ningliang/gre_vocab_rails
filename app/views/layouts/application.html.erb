@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>  
+  <title>GreVocab</title>
+  <%= stylesheet_link_tag :all %>
+  <%= javascript_include_tag "jquery.min.js" %>
+  <%= javascript_include_tag "utility.js"%>
+  <%= javascript_include_tag "study.js" %>
+  <%= csrf_meta_tag %>
+</head>
+<body>
+  <wrapper>
+    <a id="main-title-link" href="/">
+      <h1 id="main-title">WordFoo</h1>
+    <a/>
+    <%= yield %>
+    <div class="clear">
+  </wrapper>
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    try {
+      var pageTracker = _gat._getTracker("UA-11594954-1");
+      pageTracker._trackPageview();
+    } catch(err) {}
+  </script>
+</body>
+</html>

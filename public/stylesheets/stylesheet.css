@@ -1,0 +1,144 @@
+#wrapper {
+	width: 500px;
+	margin: 20px auto;
+	padding: 10px;
+	position: relative;
+}
+
+#main-title-link {
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+
+#main-title {
+	margin-top: 10px;
+	display: inline;
+}
+
+#sub-title {
+	display: inline;
+	margin-left: 15px;
+}
+
+.set-header {
+	text-align: center;
+}
+
+#sets {
+	padding-top: 20px;
+}
+
+#back-button {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	display: inline;
+}
+
+.clear {
+	clear: both;
+}
+
+.set {
+	margin-left: 20px;
+	width: 480px;
+	display: block;
+	font-size: 17px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+}
+
+#definitions {
+	clear: both;
+	padding-top: 15px;
+	border: 1px solid gray;
+}
+
+#buttons {
+	float: right;
+}
+
+#study {
+	width: 500px;
+	margin: auto auto;
+	clear: both;
+}
+
+#card {
+	width: 500px;
+	height: 300px;
+	border: 1px dotted gray;
+	position: relative;
+}
+
+#flip {
+	width: 500px;
+	height: 300px;
+	display: block;
+	position: relative;
+	text-decoration: none;
+}
+
+#front,
+#back {
+	display: block;
+	margin: auto auto auto auto;
+	text-align: center;
+	color: black;
+}
+
+#front {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#back {
+	font-size: 18px;
+}
+
+.word-entry {
+	clear: both;
+	width: 440px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+
+.word {
+	float: left;
+	width: 140px;
+	font-weight: bold;
+}
+
+.definition {
+	float: right;
+	width: 300px;
+}
+
+#study-tabs {
+	width: 500px;
+	margin: auto;
+}
+
+#study-tabs ul li {
+	float: left;
+	display: block;
+	padding: 8px 10px;
+	background-color: gray;
+}
+
+#study-tabs ul li.active {
+	background-color: black;
+}
+
+#study-tabs ul li a {
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+}
+
+#study-tabs ul {
+	padding: 0;
+}

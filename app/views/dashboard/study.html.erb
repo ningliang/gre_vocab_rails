@@ -1,0 +1,37 @@
+<h2 id="sub-title"><%= @set.title %></h2>
+<%= link_to "Back", "/" %>
+<div id="study-tabs">
+  <ul>
+    <li><a href="#study"><span>Study</span></a></li>
+    <li><a href="#definitions"><span>Definitions</span></a></li>
+  </ul>
+  <div id="study">
+    <div id="card">
+      <a id="flip" href="#">
+        <div id="front"></div>
+        <div id="back"></div>
+      </a>
+    </div>
+    <div id="buttons">
+      <a id="previous" href="#">Previous</a>
+      <a id="flag" href="#">Flag</a>
+      <a id="next" href="#">Next</a>
+    </div>
+    <a id="reset" href="#">Start Over</a>
+    <div id="progress"></div>
+    <div id="instructions">
+      Click to flip, flag to place further in deck.<br/><br/>
+      J - previous<br/>
+      K - flag<br/>
+      L = next<br/>
+      I - flip<br/>
+    </div>
+  </div>
+  <div id="definitions"></div>
+  <script type="text/javascript">
+    set = <%= raw @set_attributes.to_json %>
+    $(function() {
+    	var study = new StudyArea($("#study-tabs"), set);
+    });
+  </script>
+</div>
