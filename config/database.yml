@@ -15,7 +15,11 @@ test:
   timeout: 5000
 
 production:
-  adapter: sqlite3
-  database: db/production.sqlite3
+  adapter: mysql
+  database: gre_vocab_rails_production
   pool: 5
   timeout: 5000
+  host: localhost
+  username: root
+  password: 7hEPHap7
+  
