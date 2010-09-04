@@ -1,30 +1,59 @@
 var BASE_URL = window.location.protocol + "//" + window.location.host;
 var OK = 200;
 
-// Center an element vertically and horizontall
-$.fn.center = function() {
-	var node = $(this);
-	node.css({ 
-		position: "absolute", 
-		top: "50%", 
-		"margin-top": "-" + (node.height() / 2) + "px",
-		"margin-left": "20px",
-		"margin-right": "20px",
-		width: (node.parent().width() - 40) + "px"
-	});
-}
-
 // Make any class a singleton
 function makeSingleton(klass) {
-	klass.instance = null;
-	klass.getInstance = function() {
-		if (!klass.instance) klass.instance = new klass();
-		return klass.instance;
-	}
+  klass.instance = null;
+  klass.getInstance = function() {
+    if (!klass.instance) klass.instance = new klass();
+    return klass.instance;
+  }
 }
 
-// TODO implement words/set services in backend if we add these back
+function FlagList() {
+  const COOKIE = "gre_vocab_flag_list";  
+  var flagSet = getFlagSet();
+    
+  this.putWordId = function(wordId) {
+    if (!(wordId in flagSet)) {
+      flagSet[wordId] = true;
+      setFlagSet(flagSet);
+    }
+  }
+  
+  this.removeWordId = function(wordId) {
+    if (wordId in flagSet) {
+      delete flagSet[wordId];
+      setFlagSet(flagSet);
+    }
+  }
+  
+  this.hasWordId = function(wordId) {
+    return (wordId in flagSet);
+  }
+  
+  function getFlagSet() {
+    var flagArray = JSON.parse($.cookie(COOKIE));
+    var hashSet = {};
+    for (var index in flagArray) {
+      var element = flagArray[index];
+      hashSet[element] = true
+    }
+    return hashSet;
+  }
+  
+  function setFlagSet(flagSet) {
+    var flagArray = []
+    for (var key in flagSet) {
+      flagArray.push(key);
+    }
+    flagArray.sort();
+    $.cookie(COOKIE, JSON.stringify(flagArray));
+  }
+}
+makeSingleton(FlagList);
 
+//
 // function RequestProxy() {
 //  var GET = "GET";
 //  var POST = "POST";

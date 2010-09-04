@@ -148,3 +148,16 @@ function Definitions(node, words) {
 			.append($("<div/>").addClass("clear")));
 	});
 }
+
+// Center an element vertically and horizontally
+$.fn.center = function() {
+	var node = $(this);
+	node.css({ 
+		position: "absolute", 
+		top: "50%", 
+		"margin-top": "-" + (node.height() / 2) + "px",
+		"margin-left": "20px",
+		"margin-right": "20px",
+		width: (node.parent().width() - 40) + "px"
+	});
+}
