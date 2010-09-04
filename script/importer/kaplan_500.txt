@@ -1,0 +1,500 @@
+BILK	to cheat; defraud
+NOMINAL	existing in name only; negligible
+BLIGHT	to afflict; destroy
+BLITHE	joyful, cheerful, or without appropriate thought
+NUANCE	a subtle expression of meaning or quality
+FERVID	intensely emotional; feverish
+SPECIOUS	deceptively attractive; seemingly plausible but fallacious
+SOLECISM	grammatical mistake; blunder in speech
+JETTISON	to discard; get rid of as unnecessary or encumbering
+LAMENT	to express sorrow; to grieve
+GULLIBLE	easily deceived
+FLORID	excessively decorated or embellished
+FANATICAL	acting excessively enthusiastic; filled with extreme unquestioned devotion
+EPHEMERAL	lasting a short time
+SEDITION	behavior that promotes rebellion or civil disorder against the state
+GLIB	fluent in an insincere manner; offhand; casual
+ABDICATE	to give up a position, right, or power
+IRASCIBLE	easily made angry
+FLAG	to decline in vigor, strength, or interest
+FETID	foul-smelling; putrid
+GLOWER	to glare or stare angrily and intensely
+MONASTIC	extremely plain or secluded
+PEDANT	someone who shows off learning
+PATHOGENIC	causing disease
+CHAUVINIST	someone prejudiced in favor of a group to which he/she belongs
+GUILE	deceit; trickery
+SOBRIQUET	nickname
+NASCENT	starting to develop; coming into existence
+BELFRY	bell tower; room in which a bell is hung
+BANAL	predictable; cliched; boring
+CRESCENDO	steadily increasing in volume or force
+FRUGALITY	tending to be thrifty or cheap
+CORROBORATE	to support with evidence
+AUSTERE	severe or stern in appearance; undecorated
+LUMINOUS	bright; brilliant; glowing
+GROVEL	to humble oneself in a demeaning way
+SANGUINE	ruddy; cheerfully optimistic
+STRATAGEM	trick designed to deceive an enemy
+EMULATE	to copy; to try to equal or excel
+HEGEMONY	the domination of one state or group over its allies
+EXPURGATE	to censor
+PARLEY	discussion, usually b/w enemies
+FECUND	fertile; fruitful; productive
+DISSEMBLE	to present a false appearance; to disguise one's real intentions or character
+SPORTIVE	frolicsome; playful
+VERDANT	green with vegetation; inexperienced
+INIQUITY	sin; evil act
+CONDONE	to overlook, pardon, or disregard
+FALLOW	dormant; unused
+OROTUND	pompous
+DOGMATIC	dictatorial in one's opinions
+TAWDRY	gaudy, cheap, or showy
+SULLY	to tarnish; taint
+VERNAL	related to spring; fresh
+DROLL	amusing in a wry, subtle way
+FURTIVE	secret, stealthy
+CIRCUMSPECT	cautious; aware of potential consequences
+MALINGER	to evade responsibility by pretending to be ill
+ELOQUENT	persuasive and moving, especially in speech
+RETICENT	silent; reserved
+AUDACIOUS	fearless and daring
+DIATRIBE	an abusive, condemnatory speech
+SARDONIC	cynical; scornfully mocking
+ASSUAGE	to make something unpleasant less severe
+DESICCATE	to dry out thoroughly
+LAMPOON	to ridicule with satire
+SURFEIT	excessive amount
+GRIEVOUS	causing grief or sorrow; serious and distressing
+FRENETIC	frantic; frenzied
+INGENUOUS	showing innocence or childlike simplicity
+LAPIDARY	relating to precious stones or the art of cutting them
+ZEAL	passion; excitement
+INEXORABLE	inflexible; unyielding
+MISANTHROPE	a person who dislikes others
+ABYSS	an extremely deep hole
+PRAGMATIC	practical, as opposed to idealistic
+MISSIVE	a written note or letter
+NETTLE	to irritate
+ABSTAIN	to choose not to do something
+SYCOPHANT	a self-serving flatterer; yes-man
+LACHRYMOSE	tearful
+PASTICHE	piece of literature or music imitating other works
+FORD	to cross a body of water by wading
+CONTRITE	deeply sorrowful or repentant for a wrong
+PULCHRITUDE	beauty
+ENUMERATE	to count, list, or itemize
+NAIVE	lacking sophistication or experience
+JUNCTURE	point of time, especially where two things are joined
+CANARD	a lie
+GREGARIOUS	outgoing; sociable
+WINSOME	charming; happily engaging
+VACILLATE	to physically sway or be indecisive
+ITINERANT	wandering from place to place; unsettled
+SACROSANCT	extremely sacred; beyond criticism
+DIURNAL	existing during the day
+TACITURN	silent; not talkative
+ENDEMIC	belonging to a particular area; inherent
+TOADY	one who flatters in the hope of gaining favors
+NEOLOGISM	new word or expression
+SUPPLANT	to replace (another) by force; to take the place of
+DYSPEPTIC	suffering from indigestion; gloomy and irritable
+DOCTRINAIRE	rigidly devoted to theories without regard for practicality; dogmatic
+GESTATION	growth process from conception to birth
+EFFICACY	effectiveness
+TALON	claw of an animal, especially a bird of prey
+TERRESTRIAL	earthly; down-to-earth; commonplace
+NEOPHYTE	novice; beginner
+ENGENDER	to produce, cause, or bring about
+DEFACE	to mar the appearance of; vandalize
+OBSTINATE	stubborn; unyielding
+LARGESS	generous giving (as of money) to others who may seem inferior
+EDIFY	to instruct morally and spiritually
+VENERATE	to respect deeply
+STENTORIAN	extremely loud
+HYPERBOLE	purposeful exaggeration for effect
+PLETHORA	excess
+OSTENSIBLE	apparent
+MALLEABLE	capable of being shaped
+OSTENTATION	excessive showiness
+WAVER	to fluctuate b/w choices
+DIRGE	a funeral hymn or mournful speech
+OPAQUE	impossible to see through; preventing the passage of light
+DECORUM	appropriateness of behavior or conduct; propriety
+PLACATE	to soothe or pacify
+PLASTIC	able to be molded, altered, or bent
+OSSIFY	to change into bone; to become hardened or set in a rigidly conventional pattern
+TIRADE	long, harsh speech or verbal attack
+SERAPHIC	angelic; sweet
+LANGUID	lacking energy; indifferent; slow
+ARBITRATE	to judge a dispute b/w two opposing parties
+SCINTILLA	trace amount
+MAR	to damage or deface; spoil
+VENERABLE	respected because of age
+GAMBOL	to dance or skip around playfully
+VERACITY	filled with truth and accuracy
+VERBOSE	wordy
+VEX	to annoy; irritate; puzzle; confuse
+CONTUMACIOUS	rebellious
+MULTIFARIOUS	diverse
+ETHOS	beliefs or character of a group
+REPAST	meal or mealtime
+REPLETE	abundantly supplied; complete
+JARGON	nonsensical talk; specialized language
+FATUOUS	stupid; foolishly self-satisfied
+KINDLE	to set fire to or ignite; excite or inspire
+EBULLIENT	exhilarated; full of enthusiasm and high spirits
+GARRULOUS	tending to talk a lot
+INTREPID	fearless; resolutely courageous
+FAWN	to grovel
+ZEALOT	someone passionately devoted to a cause
+CANDID	impartial and honest in speech
+SYBARITE	a person devoted to pleasure and luxury
+PRISTINE	fresh and clean; uncorrupted
+MOLLIFY	to calm or make less severe
+PHILANTHROPY	charity; a desire or effort to promote goodness
+STOLID	unemotional; lacking sensitivity
+PECCADILLO	minor sin or offense
+VESTIGE	a trace; remnant
+FORTUITOUS	happening by chance; fortunate
+POTENTATE	monarch or ruler with great power
+SYNCOPATION	temporary irregularity in musical rhythm
+AUGUST	dignified; grandiose
+PARADOX	a contradiction or dilemma
+PERMEATE	to penetrate
+PERVADE	to be present throughout; to permeate
+ECLECTIC	selecting from or made up from a variety of sources
+CACOPHONY	harsh, jarring noise
+KUDOS	fame, glory, or honor
+AMALGAMATE	to combine; to mix together
+BURNISH	to polish
+USURY	the practice of lending money at exorbitant rates
+DOGMA	a firmly held opinion, especially a religious belief
+BIFURCATE	to divide into two parts
+CURMUDGEON	cranky person, usually old
+EPICURE	person with refined taste in food and wine
+SURLY	rude and bad-tempered
+TANGENTIAL	digressing; diverting
+IGNOBLE	having low moral standards; not noble in character; mean
+MIRTH	frivolity; gaiety; laughter
+IMPERTURBABLE	not capable of being disturbed
+AMELIORATE	to make better; to improve
+LAUD	to give praise; to glorify
+ANACHRONISM	something out of place in time
+SOPORIFIC	causing sleep or lethargy
+ANOMALY	deviation from what is normal
+DISTEND	to swell, inflate, or bloat
+IMPASSE	blocked path; dilemma with no solution
+ANTAGONIZE	to annoy or provoke to anger
+ESCHEW	to shun; to avoid (as something wrong or distasteful)
+EXIGENT	urgent; requiring immediate action
+CATALYST	something that brings about a change in something else
+DIVINE	to foretell or know by inspiration
+IDIOSYNCRASY	peculiarity of temperament; eccentricity
+EXCULPATE	to clear from blame; prove innocent
+DUPE	to deceive; a person who is easily deceived
+CHAOS	great disorder or confused situation
+EUPHONY	pleasant, harmonious sound
+CONNOISSEUR	a person with expert knowledge or discriminating tastes
+LARCENY	theft of property
+EUPHEMISM	use of an inoffensive word or phrase in place of a more distasteful one
+LASSITUDE	a state of diminished energy
+JOCULAR	playful; humorous
+APATHY	lack of interest or emotion
+ARBITRARY	determined by chance or impulse
+METICULOUS	extremely careful; fastidious; painstaking
+ENERVATE	to reduce in strength
+RUSTIC	rural
+DILATE	to make larger; expand
+XENOPHOBIA	a fear or hatred of foreigners or strangers
+ZEPHYR	a gentle breeze; something airy or insubstantial
+NOISOME	stinking; putrid
+METAPHOR	figure of speech comparing two different things
+ELEGY	a sorrowful poem or speech
+PROFLIGATE	corrupt; degenerate
+CALUMNY	a false and malicious accusation; misrepresentation
+SAGACIOUS	shrewd; wise
+PROPITIATE	to conciliate; to appease
+HAPLESS	unfortunate; having bad luck
+PALATIAL	relating to a palace; magnificent
+GARNER	to gather and store
+POLYGLOT	a speaker of many languages
+LUCID	clear and easily understood
+EMBELLISH	to add ornamental or fictitious details
+PUNGENT	sharp and irritating to the senses
+ABERRANT	deviating from what is normal or expected
+BOMBASTIC	pompous in speech and manner
+BOLSTER	to support; prop up
+BEVY	group
+VISCOUS	thick and adhesive, like a slow-flowing fluid
+GRADATION	process occurring by regular degrees or stages; variation in color
+MORES	fixed customs or manners; moral attitudes
+VOLATILE	easily arouse or changeable; lively or explosive
+ADVOCATE	to speak in favor of
+MITIGATE	to soften; to lessen
+ALLEVIATE	to make more bearable
+PARRY	to ward off or deflect, especially by a quick-witted answer
+TACIT	done without using words
+MONOTONY	no variation; tediously the same
+MOLT	to shed hair, skin, or an outer layer periodically
+ACME	highest point; summit; the highest level or degree attainable
+ADULTERATE	to make impure
+SLAKE	to calm down or moderate
+FRACTIOUS	unruly; rebellious
+ENCOMIUM	warm praise
+INVECTIVE	abusive language
+SALUBRIOUS	healthful
+EFFIGY	stuffed doll; likeness of a person
+ARCHAIC	ancient; old-fashioned
+SENTIENT	aware; conscious; able to perceive
+DISTAFF	the female branch of a family
+SINECURE	a well-paying job or office that requires little or no work
+PUSILLANIMOUS	cowardly; without courage
+DEFERENCE	respect; courtesy
+ARTICULATE	able to speak clearly and expressively
+SATIATE	to satisfy fully or overindulge
+REPOSE	relaxation; leisure
+REPUDIATE	to reject the validity of
+REQUITE	to return or repay
+PUERILE	childish, immature, or silly
+INTRACTABLE	not easily managed or manipulated
+PARIAH	an outcast
+POSIT	to assume as real or conceded; propose as an explanation
+PALLIATE	to make less serious; ease
+ESOTERIC	known or understood only by a few
+PROPRIETY	the quality of behaving in a proper manner; obeying rules and customs
+PROLIFERATE	to increase in number quickly
+INTERREGNUM	period between reigns
+PRODIGAL	lavish; wasteful
+MILITATE	to operate against; work against
+MYOPIC	lacking foresight; having a narrow view or lang-range perspective
+ENIGMA	a puzzle; a mystery
+AMBIGUOUS	doubtful or uncertain; can be interpreted several ways
+DICTUM	authoritative statement
+OVERWROUGHT	agitated; overdone
+ABATE	to reduce in amount, degree, or severity
+ERRATIC	wandering and unpredictable
+INUNDATE	to overwhelm; to cover with water
+HOMOGENEOUS	of a similar kind
+SUBLIME	lofty or grand
+INNOCUOUS	harmless
+IMPLACABLE	unable to be calmed down or made peaceful
+STIGMA	a mark of shame or discredit
+IMPETUOUS	quick to act without thinking
+HETEROGENEOUS	composed of unlike parts; different; diverse
+CAPRICIOUS	changing one's mind quickly and often
+EULOGY	speech in praise of someone
+LOQUACIOUS	talkative
+LETHARGIC	acting in an indifferent or slow, sluggish manner
+DISSONANCE	a harsh and disagreeable combination, especially of sounds
+SYMBIOSIS	cooperation; mutual helpfulness
+FORESTALL	to prevent or delay; anticipate
+SPARTAN	highly self-disciplined; frugal; austere
+EFFRONTERY	impudent boldness; audacity
+AXIOM	premise; postulate; self-evident truth
+EXACERBATE	to make worse
+EXONERATE	to clear of blame
+PUGILISM	boxing
+CHICANERY	deception by means of craft or guile
+DITHER	to act confusedly or without clear purpose
+PROBITY	complete honesty and integriity
+NADIR	lowest point
+ESTIMABLE	admirable
+PRUDENCE	wisdom, caution, restraint
+CARTOGRAPHY	science or art of making maps
+EXPLICIT	clearly stated or shown; forthright in expression
+STASIS	a state of static balance or equilibrium; stagnation
+FOMENT	to arouse or incite
+VARIEGATED	varied; marked with different colors
+INGRATE	ungrateful person
+VICISSITUDE	a change or variation; ups and downs
+VIM	vitality and energy
+VITUPERATE	to abuse verbally; berate
+VOLUBLE	talkative; speaking easily; glib
+WAN	sickly pale
+WANTON	undisciplined; unrestrained; reckless
+ABJURE	to reject; abandon formally
+ABASE	to humble; disgrace
+ACIDULOUS	sour in taste or manner
+ALACRITY	speed or quickness
+TOME	book, usually large and academic
+QUERULOUS	inclined to complain; irritable
+QUIESCENT	motionless
+PEREGRINATE	to wander from place to place; to travel, especially on foot
+DESULTORY	jumping from one thing to another; disconnected
+AMORTIZE	to diminish by installment payments
+PERFIDIOUS	willing to betray one's trust
+QUIXOTIC	overly idealistic; impractical
+PERFUNCTORY	done in a routine way; indifferent
+AMULET	ornament worn as a charm against evil spirits
+QUOTIDIAN	occurring daily; commonplace
+DIAPHANOUS	allowing light to show through; delicate
+TORPOR	extreme mental and physical sluggishness
+TRANSITORY	temporary; lasting a brief time
+PROCLIVITY	a natural inclination or predisposition
+ANALGESIA	a lessening or pain without loss of consciousness
+ABSCOND	to leave secretly
+ANALOGOUS	similar or alike in some way; equivalent to
+ANODYNE	something that calms or soothes pain
+ANTIPATHY	extreme dislike
+TRENCHANT	acute, sharp, or incisive; forceful; effective
+APOCRYPHAL	of questionable authority or authenticity
+APOSTATE	one who renounces a religious faith
+ABSTEMIOUS	moderate in appetite
+APPROBATION	approval and praise
+TURGID	swollen as from a fluid; bloated
+ACCRETION	a growth in size; an increase in amount
+AERIE	a nest built high in the air; an elevated, often secluded, dwelling
+TYRO	beginner; novice
+UMBRAGE	offense; resentment
+ARDOR	intense and passionate feeling
+ARROGATE	to claim without justification; to claim for oneself without right
+ASSAIL	to attack; assault
+UNCONSCIONABLE	unscrupulous; shockingly unfair or unjust
+UNEQUIVOCAL	absolute; certain
+UPBRAID	to scold sharply
+HERMETIC	tightly sealed
+HOARY	very old; whitish or gray from age
+AESTHETIC	concerning the appreciation of beauty
+ATTENUATE	to reduce in force or degree; weaken
+AUGURY	prophecy; prediction of events
+AFFECTED	phony; artificial
+AGGRANDIZE	to increase in power, influence, and reputation
+DECLIVITY	downward slope
+HUSBAND	to manage economically; to use sparingly
+EQUIVOCATE	to use expressions of double meaning in order to mislead
+DECOROUS	proper; tasteful; socially correct
+DELETERIOUS	subtly or unexpectedly harmful
+DEMAGOGUE	a leader or rabble-rouser, usually appealing to emotion or prejudice
+DEMUR	to express doubts or objection
+RACONTEUR	witty, skillful storyteller
+ERSATZ	fake
+ERUDITE	learned; scholarly; bookish
+PEJORATIVE	having bad connotations; disparaging
+PENURY	an oppressive lack of resource (as money); severe poverty
+DERIDE	to speak of or treat with contempt; to mock
+RAREFY	to make thinner or sparser
+REDRESS	relief from wrong or injury
+REJOINDER	response
+DIFFIDENT	lacking self-confidence
+DILATORY	intended to delay
+EXPONENT	one who champions or advocates
+PERIPATETIC	wandering from place to place, especially on foot
+NUMISMATICS	coin collecting
+PERSPICACIOUS	shrewd, astute, or keen-witted
+OBDURATE	hardened in feeling; resistant to persuasion
+DILETTANTE	someone with an amateurish or superficial interest in a topic
+RESTIVE	impatient, uneasy, or restless
+PHALANX	a compact or close-knit body of people, animals, or things
+DISABUSE	to set right; free from error
+DISCERN	to perceive or recognize
+PHILISTINE	a person who is guided by materialism and is disdainful of intellectual or artistic values
+DISPARATE	fundamentally different; entirely unalike
+JINGOISM	belligerent support of one's country
+INQUEST	an investigation; an inquiry
+KEEN	having a sharp edge; intellectually sharp; perceptive
+LATENT	potential that is not readily apparent
+INCULCATE	to teach; impress in the mind
+OBLIQUE	indirect or evasive; misleading or devious
+LAVISH	extremely generous or extravagant; giving unsparingly
+OBSEQUIOUS	overly submissive and eager to please
+KINETIC	relating to motion; characterized by movement
+LEERY	suspicious
+OBVIATE	to prevent; to make unnecessary
+LEGERDEMAIN	trickery
+KNELL	sound of a funeral bell; omen of death or failure
+LEVITY	an inappropriate lack of seriousness; overly casual
+OCCLUDE	to stop up; prevent the passage of
+OFFICIOUS	too helpful; meddlesome
+LIBERAL	tolerant or broad-minded; generous or lavish
+LACONIC	using few words
+INIMICAL	hostile; unfriendly
+INCHOATE	not fully formed; disorganized
+ONEROUS	troublesome and oppressive; burdensome
+OPINE	to express an opinion
+PHLEGMATIC	calm and unemotional in temperament
+LIBERTINE	a free thinker, usually used disparagingly; one without moral restraint
+PITHY	profound or substantial yet concise succinct, and to the point
+LICENTIOUS	immoral; unrestrained by society
+PLEBEIAN	crude or coarse; characteristic of commoners
+LIMPID	clear; transparent
+PLUCKY	courageous; spunky
+LIONIZE	to treat as a celebrity
+LISSOME	easily flexed; limber; agile
+POLEMIC	controversy; argument; verbal attack
+OPPROBRIUM	public disgrace
+LISTLESS	lacking energy and enthusiasm
+POLITIC	shrewd and practical in managing or dealing with things; diplomatic
+RHETORIC	effective writing or speaking
+LIVID	discolored from a bruise; reddened with anger
+LUGUBRIOUS	sorrowful; mournful; dismal
+LUMBER	to move slowly and awkwardly
+MACHINATION	plot or scheme
+CLOYING	sickly sweet; excessive
+RIBALD	humorous in a vulgar way
+ROCOCO	very highly ornamented
+IMPUGN	to call into question; to attack verbally
+COALESCE	to grow together to form a single whole
+COFFER	strongbox; large chest for money
+COGENT	convincing and well-reasoned
+WHIMSICAL	lightly acting in a fanciful or capricious manner; unpredictable
+WILY	clever; deceptive
+COLLUSION	collaboration; complicity; conspiracy
+WIZENED	shriveled; withered; wrinkled
+WRAITH	a ghost or specter; a ghost of a living person seen just before his/her death
+YOKE	to join together
+ZENITH	the point of culmination; peak
+ICONOCLAST	one who opposes established beliefs, customs, and institutions
+CONVOLUTED	intricate and complicated
+COSSET	to pamper; treat with great care
+COTERIE	an intimate group of persons with a similar purpose
+CREDULOUS	too trusting; gullible
+CRAVEN	lacking courage
+CUPIDITY	greed; strong desire
+DEBUTANTE	young woman making debut in high society
+SALIENT	prominent; of notable significance
+PRATTLE	meaningless; foolish talk
+PRECIPITATE	to throw violently or bring about abruptly; lacking deliberation
+PRECIS	short summary of facts
+JUDICIOUS	sensible; showing good judgement
+INTRANSIGENT	uncompromising; refusing to be reconciled
+INSIPID	lacking interest or flavor
+INVIDIOUS	envious, obnoxious, or offensive; likely to promote ill-will
+INVESTITURE	ceremony conferring authority
+INURE	to harden; accustom become used to
+IMPRECATION	a curse
+PALLID	lacking color or liveliness
+PANACHE	flamboyance or dash in style and action; verve
+ABEYANCE	temporary suppression or suspension
+PANEGYRIC	elaborate praise; formal hymn of praise
+CASTIGATE	to punish or criticize harshly
+PANOPLY	impressive array
+BONHOMIE	good-natured geniality; atmosphere of good cheer
+PARAGON	model of excellence or perfection
+BOOR	crude person, one lacking manners or taste
+BURGEON	to grow and flourish
+MAELSTROM	whirlpool; turmoil; agitated state of mind
+MAGNATE	powerful or influential person
+MALEDICTION	a curse; a wish of evil upon another
+MANNERED	artificial or stilted in character
+MARTINET	strict disciplinarian; one who rigidly follows rules
+CATHOLIC	universal; broad and comprehensive
+PARE	to trim off excess; reduce
+CAUSTIC	biting in wit
+CABAL	a secret group seeking to overturn something
+MAUDLIN	overly sentimental
+MENDACIOUS	dishonest
+MENDICANT	beggar
+MERCURIAL	quick, shrewd, and unpredictable
+MERETRICIOUS	gaudy; falsely attractive
+INGRATIATE	to gain favor with another by deliberate effort; to seek to please somebody so as to gain an advantage
+INSURRECTION	rebellion
+PRESCIENT	having foresight
+PREVARICATE	to lie or deviate from the truth
+INTER	to bury
+IMBUE	to infuse, dye, wet, or moisten
+IMPECUNIOUS	poor; having no money
+IMPERVIOUS	impossible to penetrate
+IMPIOUS	not devout in religion
+INCARNADINE	blood-red in color
+INDOLENT	habitually lazy or idle
