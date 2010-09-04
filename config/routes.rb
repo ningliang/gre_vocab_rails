@@ -1,6 +1,7 @@
 GreVocab::Application.routes.draw do
   root :to => "/dashboard#index"
   match "/study/:id" => "/dashboard#study"
+  match "/my_list" => "/dashboard#flag_list"
   
   # The priority is based upon order of creation:
   # first created -> highest priority.
