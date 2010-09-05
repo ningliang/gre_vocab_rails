@@ -27,6 +27,7 @@ WordSetWord = Class.new(ActiveRecord::Base) do
 end
 
 words = JSON.parse(IO.read(ALL_WORDS))
+words.each { |word| word["word"].downcase! }
 word_ars = words.map { |word| Word.create(word) }
 
 # create sets by alphabetical
