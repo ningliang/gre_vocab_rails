@@ -1,4 +1,5 @@
 <div id="sets">
   <%= render :partial => "set_collection", :locals => { :collection_name => "Alphabetical", :sets => @sets.select { |set| set.set_type.eql? WordSet::BY_ALPHA }} %>
   <%= render :partial => "set_collection", :locals => { :collection_name => "By Length", :sets => @sets.select { |set| set.set_type.eql? WordSet::BY_LENGTH }} %>
+  <%= render :partial => "set_collection", :locals => { :collection_name => "Kaplan 500", :sets => @sets.select { |set| set.set_type.eql? WordSet::KAPLAN }} %>
 </div>

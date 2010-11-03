@@ -3,4 +3,5 @@ class WordSet < ActiveRecord::Base
   
   BY_ALPHA = "alpha"
   BY_LENGTH = "length"
+  KAPLAN = "kaplan"
 end
